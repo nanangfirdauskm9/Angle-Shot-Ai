@@ -1,0 +1,5 @@
+{
+  "name": "Angle Shot ai",
+  "description": "Analyze scenes and generate consistent cinematic shot prompts and visualizations using Gemini 2.5.",
+  "requestFramePermissions": []
+}
